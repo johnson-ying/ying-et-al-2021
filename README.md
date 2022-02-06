@@ -1,4 +1,4 @@
-# Ying-et-al-2021
+# Ying-et-al-2022
 
 This repository contains the data and code that support the key findings presented in the paper titled “Disruption of the grid cell network in a mouse model of early Alzheimer's disease” by Ying et.al. Code was written in MATLAB.
 
