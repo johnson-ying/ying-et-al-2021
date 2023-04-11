@@ -1,4 +1,4 @@
-# Ying-et-al-2022
+# Ying-et-al-2023
 
 This repository contains the data and code that support the key findings presented in the paper titled “Grid cell disruption in a mouse model of early Alzheimer’s disease reflects reduced integration of self-motion cues” by Ying et.al. Code was written in MATLAB.
 
